@@ -38,7 +38,6 @@ github.com/cespare/xxhash/v2
 ## explicit; go 1.21
 # github.com/containerd/containerd v1.7.19
 ## explicit; go 1.21
-github.com/containerd/containerd/pkg/userns
 # github.com/containerd/log v0.1.0
 ## explicit; go 1.20
 github.com/containerd/log
@@ -109,6 +108,8 @@ github.com/docker/distribution/uuid
 # github.com/docker/docker v20.10.24+incompatible
 ## explicit
 # github.com/docker/docker v27.0.3+incompatible
+## explicit
+# github.com/docker/docker v27.5.1+incompatible
 ## explicit
 github.com/docker/docker/api
 github.com/docker/docker/api/types
@@ -340,6 +341,9 @@ github.com/moby/sys/sequential
 # github.com/moby/sys/user v0.1.0
 ## explicit; go 1.17
 github.com/moby/sys/user
+# github.com/moby/sys/userns v0.1.0
+## explicit; go 1.21
+github.com/moby/sys/userns
 # github.com/moby/term v0.0.0-20220808134915-39b0c02b01ae
 ## explicit; go 1.18
 # github.com/moby/term v0.5.0
